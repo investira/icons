@@ -1,0 +1,1151 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.-i_ok {
+  width: 16px;
+  height: 16px;
+  background-position: 0 0;
+}
+.-i_cancel {
+  width: 16px;
+  height: 16px;
+  background-position: -32px 0;
+}
+.-i_insert {
+  width: 16px;
+  height: 16px;
+  background-position: -64px 0;
+}
+.-i_save {
+  width: 16px;
+  height: 16px;
+  background-position: -96px 0;
+}
+.-i_edit {
+  width: 16px;
+  height: 16px;
+  background-position: -128px 0;
+}
+.-i_delete {
+  width: 16px;
+  height: 16px;
+  background-position: -160px 0;
+}
+.-i_find {
+  width: 16px;
+  height: 16px;
+  background-position: -192px 0;
+}
+.-i_refresh {
+  width: 16px;
+  height: 16px;
+  background-position: -224px 0;
+}
+.-i_synchronize {
+  width: 16px;
+  height: 16px;
+  background-position: -256px 0;
+}
+.-i_filter {
+  width: 16px;
+  height: 16px;
+  background-position: -288px 0;
+}
+.-i_undo {
+  width: 16px;
+  height: 16px;
+  background-position: -320px 0;
+}
+.-i_share {
+  width: 16px;
+  height: 16px;
+  background-position: -352px 0;
+}
+.-i_share_left {
+  width: 16px;
+  height: 16px;
+  background-position: -384px 0;
+}
+.-i_share_right {
+  width: 16px;
+  height: 16px;
+  background-position: -416px 0;
+}
+.-i_share_left-right {
+  width: 16px;
+  height: 16px;
+  background-position: -448px 0;
+}
+.-i_success {
+  width: 16px;
+  height: 16px;
+  background-position: -480px 0;
+}
+.-i_error {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -32px;
+}
+.-i_information {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -32px;
+}
+.-i_warning {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -32px;
+}
+.-i_question {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -32px;
+}
+.-i_checkbox {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -32px;
+}
+.-i_checkbox_select {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -32px;
+}
+.-i_checkbox_invert {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -32px;
+}
+.-i_option {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -32px;
+}
+.-i_option_select {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -32px;
+}
+.-i_on_off {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -32px;
+}
+.-i_download {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -32px;
+}
+.-i_upload {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -32px;
+}
+.-i_cloud_off {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -32px;
+}
+.-i_in {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -32px;
+}
+.-i_out {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -32px;
+}
+.-i_user {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -32px;
+}
+.-i_user_tie {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -64px;
+}
+.-i_users {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -64px;
+}
+.-i_user_hat {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -64px;
+}
+.-i_user_id {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -64px;
+}
+.-i_arrow-first-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -64px;
+}
+.-i_arrow-previous-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -64px;
+}
+.-i_arrow-next-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -64px;
+}
+.-i_arrow-last-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -64px;
+}
+.-i_arrow-up-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -64px;
+}
+.-i_arrow-top-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -64px;
+}
+.-i_arrow-down-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -64px;
+}
+.-i_arrow-bottom-circle {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -64px;
+}
+.-i_arrow-left-right {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -64px;
+}
+.-i_arrow-first {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -64px;
+}
+.-i_arrow-previous {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -64px;
+}
+.-i_arrow-next {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -64px;
+}
+.-i_arrow-last {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -96px;
+}
+.-i_arrow-top {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -96px;
+}
+.-i_arrow-up {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -96px;
+}
+.-i_arrow-down {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -96px;
+}
+.-i_arrow-bottom {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -96px;
+}
+.-i_sort {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -96px;
+}
+.-i_sort_asc {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -96px;
+}
+.-i_sort_des {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -96px;
+}
+.-i_media_play {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -96px;
+}
+.-i_media_stop {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -96px;
+}
+.-i_media_pause {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -96px;
+}
+.-i_sun {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -96px;
+}
+.-i_moon {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -96px;
+}
+.-i_earth {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -96px;
+}
+.-i_compass {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -96px;
+}
+.-i_location {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -96px;
+}
+.-i_map {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -128px;
+}
+.-i_unlock {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -128px;
+}
+.-i_lock {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -128px;
+}
+.-i_link {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -128px;
+}
+.-i_unlink {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -128px;
+}
+.-i_zoom_in {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -128px;
+}
+.-i_zoom_out {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -128px;
+}
+.-i_zoom_money {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -128px;
+}
+.-i_home {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -128px;
+}
+.-i_office_building {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -128px;
+}
+.-i_factory {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -128px;
+}
+.-i_parthenon {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -128px;
+}
+.-i_store {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -128px;
+}
+.-i_hospital {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -128px;
+}
+.-i_newspaper {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -128px;
+}
+.-i_portofolio {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -128px;
+}
+.-i_calendar {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -160px;
+}
+.-i_todo {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -160px;
+}
+.-i_paper {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -160px;
+}
+.-i_papers {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -160px;
+}
+.-i_paper_text {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -160px;
+}
+.-i_paper_printer {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -160px;
+}
+.-i_paper_ribbon {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -160px;
+}
+.-i_paper_organizer {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -160px;
+}
+.-i_file_cabinet {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -160px;
+}
+.-i_stamp {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -160px;
+}
+.-i_paper_clip {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -160px;
+}
+.-i_stapler {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -160px;
+}
+.-i_scissors {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -160px;
+}
+.-i_book {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -160px;
+}
+.-i_books {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -160px;
+}
+.-i_graduation_cap {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -160px;
+}
+.-i_message {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -192px;
+}
+.-i_messages {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -192px;
+}
+.-i_mail {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -192px;
+}
+.-i_at {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -192px;
+}
+.-i_eye_off {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -192px;
+}
+.-i_eye {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -192px;
+}
+.-i_heart {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -192px;
+}
+.-i_cardio {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -192px;
+}
+.-i_hand {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -192px;
+}
+.-i_delta {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -192px;
+}
+.-i_account_activity {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -192px;
+}
+.-i_calculator {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -192px;
+}
+.-i_chart_pizza {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -192px;
+}
+.-i_chart_line {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -192px;
+}
+.-i_chart_bar {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -192px;
+}
+.-i_chart_cashflow {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -192px;
+}
+.-i_chart_lines {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -224px;
+}
+.-i_currency_euro {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -224px;
+}
+.-i_currency_yen {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -224px;
+}
+.-i_currency_pound {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -224px;
+}
+.-i_coin {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -224px;
+}
+.-i_coins {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -224px;
+}
+.-i_bill {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -224px;
+}
+.-i_percent {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -224px;
+}
+.-i_bills {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -224px;
+}
+.-i_safe {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -224px;
+}
+.-i_money_saving {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -224px;
+}
+.-i_wallet {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -224px;
+}
+.-i_creditcard {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -224px;
+}
+.-i_money_bag {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -224px;
+}
+.-i_investiment {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -224px;
+}
+.-i_printer {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -224px;
+}
+.-i_folder {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -256px;
+}
+.-i_bug {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -256px;
+}
+.-i_wifi_off {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -256px;
+}
+.-i_wifi {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -256px;
+}
+.-i_database {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -256px;
+}
+.-i_servers {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -256px;
+}
+.-i_mobile {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -256px;
+}
+.-i_menu {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -256px;
+}
+.-i_more {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -256px;
+}
+.-i_backup {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -256px;
+}
+.-i_clock {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -256px;
+}
+.-i_clock_alarm {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -256px;
+}
+.-i_clock_timer {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -256px;
+}
+.-i_clock_schedule {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -256px;
+}
+.-i_runnig_timer {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -256px;
+}
+.-i_bike {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -256px;
+}
+.-i_car {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -288px;
+}
+.-i_taxi {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -288px;
+}
+.-i_train {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -288px;
+}
+.-i_bus {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -288px;
+}
+.-i_airplane {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -288px;
+}
+.-i_copter {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -288px;
+}
+.-i_ship {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -288px;
+}
+.-i_truck {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -288px;
+}
+.-i_traffic_light {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -288px;
+}
+.-i_traffic_cone {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -288px;
+}
+.-i_gas_pump {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -288px;
+}
+.-i_wheel {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -288px;
+}
+.-i_steering_wheel {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -288px;
+}
+.-i_control_panel {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -288px;
+}
+.-i_sign_prohibid {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -288px;
+}
+.-i_sign_recycle {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -288px;
+}
+.-i_sign_radioactive {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -320px;
+}
+.-i_sign_accessibility {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -320px;
+}
+.-i_policeman {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -320px;
+}
+.-i_workman {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -320px;
+}
+.-i_callcenter {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -320px;
+}
+.-i_cloud {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -320px;
+}
+.-i_cloud_rain {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -320px;
+}
+.-i_cloud_lightning {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -320px;
+}
+.-i_wind {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -320px;
+}
+.-i_compasses {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -320px;
+}
+.-i_shovel {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -320px;
+}
+.-i_hammer {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -320px;
+}
+.-i_wrench {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -320px;
+}
+.-i_magnet {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -320px;
+}
+.-i_lamp {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -320px;
+}
+.-i_key {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -320px;
+}
+.-i_keyhole {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -352px;
+}
+.-i_glasses {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -352px;
+}
+.-i_umbrella {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -352px;
+}
+.-i_paper_plane {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -352px;
+}
+.-i_bomb {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -352px;
+}
+.-i_hourglass {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -352px;
+}
+.-i_target {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -352px;
+}
+.-i_phone {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -352px;
+}
+.-i_auction_hammer {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -352px;
+}
+.-i_balance {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -352px;
+}
+.-i_prize_ribbon {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -352px;
+}
+.-i_place123 {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -352px;
+}
+.-i_medal {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -352px;
+}
+.-i_balloon {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -352px;
+}
+.-i_lifebelt {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -352px;
+}
+.-i_anchor {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -352px;
+}
+.-i_brief_case {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -384px;
+}
+.-i_bell_off {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -384px;
+}
+.-i_bell {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -384px;
+}
+.-i_thermometer {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -384px;
+}
+.-i_stethoscope {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -384px;
+}
+.-i_gear {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -384px;
+}
+.-i_gears {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -384px;
+}
+.-i_lion {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -384px;
+}
+.-i_music_note {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -384px;
+}
+.-i_photo_camera {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -384px;
+}
+.-i_video_camera {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -384px;
+}
+.-i_microphone {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -384px;
+}
+.-i_microphone_off {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -384px;
+}
+.-i_picture {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -384px;
+}
+.-i_slider {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -384px;
+}
+.-i_speaker {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -384px;
+}
+.-i_speaker_off {
+  width: 16px;
+  height: 16px;
+  background-position: 0 -416px;
+}
+.-i_headphones {
+  width: 16px;
+  height: 16px;
+  background-position: -32px -416px;
+}
+.-i_flag_finish {
+  width: 16px;
+  height: 16px;
+  background-position: -64px -416px;
+}
+.-i_flag {
+  width: 16px;
+  height: 16px;
+  background-position: -96px -416px;
+}
+.-i_box_paper {
+  width: 16px;
+  height: 16px;
+  background-position: -128px -416px;
+}
+.-i_box_gift {
+  width: 16px;
+  height: 16px;
+  background-position: -160px -416px;
+}
+.-i_box_3d {
+  width: 16px;
+  height: 16px;
+  background-position: -192px -416px;
+}
+.-i_box_treasure {
+  width: 16px;
+  height: 16px;
+  background-position: -224px -416px;
+}
+.-i_star5 {
+  width: 16px;
+  height: 16px;
+  background-position: -256px -416px;
+}
+.-i_shopping_cart {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -416px;
+}
+.-i_tag {
+  width: 16px;
+  height: 16px;
+  background-position: -320px -416px;
+}
+.-i_tag_price {
+  width: 16px;
+  height: 16px;
+  background-position: -352px -416px;
+}
+.-i_bag {
+  width: 16px;
+  height: 16px;
+  background-position: -384px -416px;
+}
+.-i_receipt {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -416px;
+}
+.-i_barcode {
+  width: 16px;
+  height: 16px;
+  background-position: -448px -416px;
+}
+.-i_qr {
+  width: 16px;
+  height: 16px;
+  background-position: -480px -416px;
+}
+.-i_investira_h {
+  width: 84px;
+  height: 16px;
+  background-position: 0 -448px;
+}
+.-i_investira_h_biz {
+  width: 104px;
+  height: 16px;
+  background-position: -96px -448px;
+}
+.-i_investira_h_pro {
+  width: 102px;
+  height: 16px;
+  background-position: -224px -448px;
+}
+.-i_investira_v {
+  width: 25px;
+  height: 16px;
+  background-position: -352px -448px;
+}
+.-i_investira_icon {
+  width: 16px;
+  height: 16px;
+  background-position: -416px -448px;
+}
+
