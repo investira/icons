@@ -148,6 +148,7 @@
 		'-i_database': '&#xe984;',
 		'-i_servers': '&#xe985;',
 		'-i_mobile': '&#xe986;',
+		'-i_workstation': '&#xe9e6;',
 		'-i_menu': '&#xe987;',
 		'-i_more': '&#xe988;',
 		'-i_backup': '&#xe989;',

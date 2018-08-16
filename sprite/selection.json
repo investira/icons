@@ -6830,10 +6830,6 @@
     }
   ],
   "height": 1024,
-  "metadata": {
-    "name": "Investira",
-    "url": "http://investira.com.br"
-  },
   "preferences": {
     "showGlyphs": true,
     "showQuickUse": true,
@@ -6867,12 +6863,18 @@
       "noie8": false
     },
     "imagePref": {
-      "prefix": "icon-",
-      "png": true,
+      "prefix": "-i-",
+      "png": false,
       "useClassSelector": true,
       "color": 4473924,
       "bgColor": 16777215,
-      "classSelector": ".icon"
+      "classSelector": ".icon",
+      "name": "investira-icons",
+      "height": 32,
+      "columns": 16,
+      "margin": 16,
+      "sprite": true,
+      "minifyJs": false
     },
     "historySize": 100,
     "gridSize": 16,
