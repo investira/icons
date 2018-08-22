@@ -1,13 +1,13 @@
 .-i_ok {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe900;');
 }
-.-i_insert {
+.-i_cancel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe901;');
 }
-.-i_save {
+.-i_insert {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe902;');
 }
-.-i_cancel {
+.-i_save {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe903;');
 }
 .-i_edit {
@@ -82,10 +82,10 @@
 .-i_upload {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91b;');
 }
-.-i_in {
+.-i_cloud_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91c;');
 }
-.-i_cloud_off {
+.-i_in {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe91d;');
 }
 .-i_out {
@@ -145,13 +145,13 @@
 .-i_arrow-last {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe930;');
 }
-.-i_arrow-up {
+.-i_arrow-top {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe931;');
 }
-.-i_arrow-top {
+.-i_arrow-down {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe932;');
 }
-.-i_arrow-down {
+.-i_arrow-up {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe933;');
 }
 .-i_arrow-bottom {
@@ -226,10 +226,10 @@
 .-i_parthenon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94b;');
 }
-.-i_hospital {
+.-i_store {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94c;');
 }
-.-i_store {
+.-i_hospital {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe94d;');
 }
 .-i_newspaper {
@@ -337,16 +337,16 @@
 .-i_chart_lines {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe970;');
 }
-.-i_currency_euro {
+.-i_currency_yen {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe971;');
 }
-.-i_currency_yen {
+.-i_currency_euro {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe972;');
 }
-.-i_currency_pound {
+.-i_coin {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe973;');
 }
-.-i_coin {
+.-i_currency_pound {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe974;');
 }
 .-i_coins {
@@ -358,10 +358,10 @@
 .-i_bills {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe977;');
 }
-.-i_percent {
+.-i_safe {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe978;');
 }
-.-i_safe {
+.-i_percent {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe979;');
 }
 .-i_money_saving {
@@ -583,112 +583,115 @@
 .-i_bell_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;');
 }
-.-i_thermometer {
+.-i_bell {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;');
 }
-.-i_bell {
+.-i_thermometer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;');
 }
 .-i_stethoscope {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;');
 }
-.-i_gear {
+.-i_dna {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;');
 }
-.-i_gears {
+.-i_gear {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;');
 }
-.-i_lion {
+.-i_gears {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
 }
-.-i_music_note {
+.-i_lion {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;');
 }
-.-i_photo_camera {
+.-i_music_note {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ca;');
 }
-.-i_video_camera {
+.-i_photo_camera {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;');
 }
-.-i_microphone {
+.-i_video_camera {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cc;');
 }
-.-i_microphone_off {
+.-i_microphone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cd;');
 }
-.-i_picture {
+.-i_microphone_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ce;');
 }
-.-i_slider {
+.-i_picture {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;');
 }
-.-i_speaker {
+.-i_slider {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d0;');
 }
-.-i_speaker_off {
+.-i_speaker {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d1;');
 }
-.-i_headphones {
+.-i_speaker_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d2;');
 }
-.-i_flag_finish {
+.-i_headphones {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d3;');
 }
-.-i_flag {
+.-i_flag_finish {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d4;');
 }
-.-i_box_paper {
+.-i_flag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d5;');
 }
-.-i_box_gift {
+.-i_box_paper {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d6;');
 }
-.-i_box_3d {
+.-i_box_gift {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d7;');
 }
-.-i_box_treasure {
+.-i_box_3d {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d8;');
 }
-.-i_star5 {
+.-i_box_treasure {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d9;');
 }
-.-i_shopping_cart {
+.-i_star5 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9da;');
 }
-.-i_tag {
+.-i_shopping_cart {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9db;');
 }
-.-i_tag_price {
+.-i_tag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dc;');
 }
-.-i_bag {
+.-i_tag_price {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dd;');
 }
-.-i_receipt {
+.-i_bag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9de;');
 }
-.-i_barcode {
+.-i_receipt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9df;');
 }
-.-i_qr {
+.-i_barcode {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e0;');
 }
-.-i_ifeed {
+.-i_qr {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;');
 }
-.-i_investira_h {
+.-i_ifeed {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;');
 }
-.-i_investira_h_biz {
+.-i_investira_h {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;');
 }
-.-i_investira_h_pro {
+.-i_investira_h_biz {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e4;');
 }
-.-i_investira_v {
+.-i_investira_h_pro {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;');
 }
-.-i_investira_icon {
+.-i_investira_v {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e6;');
+}
+.-i_investira_icon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e7;');
 }
 
