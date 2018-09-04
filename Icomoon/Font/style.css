@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Investira';
-  src:  url('fonts/Investira.eot?j6ystm');
-  src:  url('fonts/Investira.eot?j6ystm#iefix') format('embedded-opentype'),
-    url('fonts/Investira.ttf?j6ystm') format('truetype'),
-    url('fonts/Investira.woff?j6ystm') format('woff'),
-    url('fonts/Investira.svg?j6ystm#Investira') format('svg');
+  src:  url('fonts/Investira.eot?c1pjq8');
+  src:  url('fonts/Investira.eot?c1pjq8#iefix') format('embedded-opentype'),
+    url('fonts/Investira.ttf?c1pjq8') format('truetype'),
+    url('fonts/Investira.woff?c1pjq8') format('woff'),
+    url('fonts/Investira.svg?c1pjq8#Investira') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -90,10 +90,10 @@
 .-i_checkbox_select:before {
   content: "\e915";
 }
-.-i_option:before {
+.-i_checkbox_invert:before {
   content: "\e916";
 }
-.-i_checkbox_invert:before {
+.-i_option:before {
   content: "\e917";
 }
 .-i_option_select:before {
@@ -561,31 +561,31 @@
 .-i_shovel:before {
   content: "\e9b2";
 }
-.-i_hammer:before {
+.-i_wrench:before {
   content: "\e9b3";
 }
-.-i_wrench:before {
+.-i_hammer:before {
   content: "\e9b4";
 }
 .-i_magnet:before {
   content: "\e9b5";
 }
-.-i_keyhole:before {
+.-i_lamp:before {
   content: "\e9b6";
 }
-.-i_lamp:before {
+.-i_key:before {
   content: "\e9b7";
 }
-.-i_key:before {
+.-i_keyhole:before {
   content: "\e9b8";
 }
 .-i_glasses:before {
   content: "\e9b9";
 }
-.-i_umbrella:before {
+.-i_paper_plane:before {
   content: "\e9ba";
 }
-.-i_paper_plane:before {
+.-i_umbrella:before {
   content: "\e9bb";
 }
 .-i_bomb:before {
@@ -624,10 +624,10 @@
 .-i_anchor:before {
   content: "\e9c7";
 }
-.-i_brief_case:before {
+.-i_bell_off:before {
   content: "\e9c8";
 }
-.-i_bell_off:before {
+.-i_brief_case:before {
   content: "\e9c9";
 }
 .-i_bell:before {

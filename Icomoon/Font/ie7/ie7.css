@@ -64,10 +64,10 @@
 .-i_checkbox_select {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe915;');
 }
-.-i_option {
+.-i_checkbox_invert {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe916;');
 }
-.-i_checkbox_invert {
+.-i_option {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe917;');
 }
 .-i_option_select {
@@ -535,31 +535,31 @@
 .-i_shovel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b2;');
 }
-.-i_hammer {
+.-i_wrench {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b3;');
 }
-.-i_wrench {
+.-i_hammer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b4;');
 }
 .-i_magnet {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b5;');
 }
-.-i_keyhole {
+.-i_lamp {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;');
 }
-.-i_lamp {
+.-i_key {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b7;');
 }
-.-i_key {
+.-i_keyhole {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b8;');
 }
 .-i_glasses {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b9;');
 }
-.-i_umbrella {
+.-i_paper_plane {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ba;');
 }
-.-i_paper_plane {
+.-i_umbrella {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bb;');
 }
 .-i_bomb {
@@ -598,10 +598,10 @@
 .-i_anchor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;');
 }
-.-i_brief_case {
+.-i_bell_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
 }
-.-i_bell_off {
+.-i_brief_case {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;');
 }
 .-i_bell {

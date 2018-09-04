@@ -113,12 +113,12 @@
   height: 16px;
   background-position: -160px -32px;
 }
-.-i_option {
+.-i_checkbox_invert {
   width: 16px;
   height: 16px;
   background-position: -192px -32px;
 }
-.-i_checkbox_invert {
+.-i_option {
   width: 16px;
   height: 16px;
   background-position: -224px -32px;
@@ -898,12 +898,12 @@
   height: 16px;
   background-position: -64px -352px;
 }
-.-i_hammer {
+.-i_wrench {
   width: 16px;
   height: 16px;
   background-position: -96px -352px;
 }
-.-i_wrench {
+.-i_hammer {
   width: 16px;
   height: 16px;
   background-position: -128px -352px;
@@ -913,17 +913,17 @@
   height: 16px;
   background-position: -160px -352px;
 }
-.-i_keyhole {
+.-i_lamp {
   width: 16px;
   height: 16px;
   background-position: -192px -352px;
 }
-.-i_lamp {
+.-i_key {
   width: 16px;
   height: 16px;
   background-position: -224px -352px;
 }
-.-i_key {
+.-i_keyhole {
   width: 16px;
   height: 16px;
   background-position: -256px -352px;
@@ -933,12 +933,12 @@
   height: 16px;
   background-position: -288px -352px;
 }
-.-i_umbrella {
+.-i_paper_plane {
   width: 16px;
   height: 16px;
   background-position: -320px -352px;
 }
-.-i_paper_plane {
+.-i_umbrella {
   width: 16px;
   height: 16px;
   background-position: -352px -352px;
@@ -1003,12 +1003,12 @@
   height: 16px;
   background-position: -224px -384px;
 }
-.-i_brief_case {
+.-i_bell_off {
   width: 16px;
   height: 16px;
   background-position: -256px -384px;
 }
-.-i_bell_off {
+.-i_brief_case {
   width: 16px;
   height: 16px;
   background-position: -288px -384px;
