@@ -683,519 +683,524 @@
   height: 16px;
   background-position: -224px -256px;
 }
-.-i_chip {
+.-i_multiplataform {
   width: 16px;
   height: 16px;
   background-position: -256px -256px;
 }
-.-i_menu {
+.-i_chip {
   width: 16px;
   height: 16px;
   background-position: -288px -256px;
 }
-.-i_more {
+.-i_menu {
   width: 16px;
   height: 16px;
   background-position: -320px -256px;
 }
-.-i_backup {
+.-i_more {
   width: 16px;
   height: 16px;
   background-position: -352px -256px;
 }
-.-i_opensource {
+.-i_backup {
   width: 16px;
   height: 16px;
   background-position: -384px -256px;
 }
-.-i_facebook {
+.-i_opensource {
   width: 16px;
   height: 16px;
   background-position: -416px -256px;
 }
-.-i_twitter {
+.-i_facebook {
   width: 16px;
   height: 16px;
   background-position: -448px -256px;
 }
-.-i_googleplus {
+.-i_twitter {
   width: 16px;
   height: 16px;
   background-position: -480px -256px;
 }
-.-i_instagram {
+.-i_googleplus {
   width: 16px;
   height: 16px;
   background-position: 0 -288px;
 }
-.-i_linkedin {
+.-i_instagram {
   width: 16px;
   height: 16px;
   background-position: -32px -288px;
 }
-.-i_clock {
+.-i_linkedin {
   width: 16px;
   height: 16px;
   background-position: -64px -288px;
 }
-.-i_clock_alarm {
+.-i_clock {
   width: 16px;
   height: 16px;
   background-position: -96px -288px;
 }
-.-i_clock_timer {
+.-i_clock_alarm {
   width: 16px;
   height: 16px;
   background-position: -128px -288px;
 }
-.-i_clock_schedule {
+.-i_clock_timer {
   width: 16px;
   height: 16px;
   background-position: -160px -288px;
 }
-.-i_runnig_timer {
+.-i_clock_schedule {
   width: 16px;
   height: 16px;
   background-position: -192px -288px;
 }
-.-i_bike {
+.-i_runnig_timer {
   width: 16px;
   height: 16px;
   background-position: -224px -288px;
 }
-.-i_car {
+.-i_bike {
   width: 16px;
   height: 16px;
   background-position: -256px -288px;
 }
-.-i_taxi {
+.-i_car {
   width: 16px;
   height: 16px;
   background-position: -288px -288px;
 }
-.-i_train {
+.-i_taxi {
   width: 16px;
   height: 16px;
   background-position: -320px -288px;
 }
-.-i_bus {
+.-i_train {
   width: 16px;
   height: 16px;
   background-position: -352px -288px;
 }
-.-i_airplane {
+.-i_bus {
   width: 16px;
   height: 16px;
   background-position: -384px -288px;
 }
-.-i_copter {
+.-i_airplane {
   width: 16px;
   height: 16px;
   background-position: -416px -288px;
 }
-.-i_ship {
+.-i_copter {
   width: 16px;
   height: 16px;
   background-position: -448px -288px;
 }
-.-i_truck {
+.-i_ship {
   width: 16px;
   height: 16px;
   background-position: -480px -288px;
 }
-.-i_traffic_light {
+.-i_truck {
   width: 16px;
   height: 16px;
   background-position: 0 -320px;
 }
-.-i_traffic_cone {
+.-i_traffic_light {
   width: 16px;
   height: 16px;
   background-position: -32px -320px;
 }
-.-i_gas_pump {
+.-i_traffic_cone {
   width: 16px;
   height: 16px;
   background-position: -64px -320px;
 }
-.-i_wheel {
+.-i_gas_pump {
   width: 16px;
   height: 16px;
   background-position: -96px -320px;
 }
-.-i_steering_wheel {
+.-i_wheel {
   width: 16px;
   height: 16px;
   background-position: -128px -320px;
 }
-.-i_control_panel {
+.-i_steering_wheel {
   width: 16px;
   height: 16px;
   background-position: -160px -320px;
 }
-.-i_sign_prohibid {
+.-i_control_panel {
   width: 16px;
   height: 16px;
   background-position: -192px -320px;
 }
-.-i_sign_recycle {
+.-i_sign_prohibid {
   width: 16px;
   height: 16px;
   background-position: -224px -320px;
 }
-.-i_sign_radioactive {
+.-i_sign_recycle {
   width: 16px;
   height: 16px;
   background-position: -256px -320px;
 }
-.-i_sign_accessibility {
+.-i_sign_radioactive {
   width: 16px;
   height: 16px;
   background-position: -288px -320px;
 }
-.-i_policeman {
+.-i_sign_accessibility {
   width: 16px;
   height: 16px;
   background-position: -320px -320px;
 }
-.-i_workman {
+.-i_policeman {
   width: 16px;
   height: 16px;
   background-position: -352px -320px;
 }
-.-i_callcenter {
+.-i_workman {
   width: 16px;
   height: 16px;
   background-position: -384px -320px;
 }
-.-i_cloud {
+.-i_callcenter {
   width: 16px;
   height: 16px;
   background-position: -416px -320px;
 }
-.-i_cloud_rain {
+.-i_cloud {
   width: 16px;
   height: 16px;
   background-position: -448px -320px;
 }
-.-i_cloud_lightning {
+.-i_cloud_rain {
   width: 16px;
   height: 16px;
   background-position: -480px -320px;
 }
-.-i_wind {
+.-i_cloud_lightning {
   width: 16px;
   height: 16px;
   background-position: 0 -352px;
 }
-.-i_compasses {
+.-i_wind {
   width: 16px;
   height: 16px;
   background-position: -32px -352px;
 }
-.-i_shovel {
+.-i_compasses {
   width: 16px;
   height: 16px;
   background-position: -64px -352px;
 }
-.-i_wrench {
+.-i_shovel {
   width: 16px;
   height: 16px;
   background-position: -96px -352px;
 }
-.-i_hammer {
+.-i_wrench {
   width: 16px;
   height: 16px;
   background-position: -128px -352px;
 }
-.-i_magnet {
+.-i_hammer {
   width: 16px;
   height: 16px;
   background-position: -160px -352px;
 }
-.-i_lamp {
+.-i_magnet {
   width: 16px;
   height: 16px;
   background-position: -192px -352px;
 }
-.-i_key {
+.-i_lamp {
   width: 16px;
   height: 16px;
   background-position: -224px -352px;
 }
-.-i_keyhole {
+.-i_key {
   width: 16px;
   height: 16px;
   background-position: -256px -352px;
 }
-.-i_glasses {
+.-i_keyhole {
   width: 16px;
   height: 16px;
   background-position: -288px -352px;
 }
-.-i_paper_plane {
+.-i_glasses {
   width: 16px;
   height: 16px;
   background-position: -320px -352px;
 }
-.-i_umbrella {
+.-i_paper_plane {
   width: 16px;
   height: 16px;
   background-position: -352px -352px;
 }
-.-i_bomb {
+.-i_umbrella {
   width: 16px;
   height: 16px;
   background-position: -384px -352px;
 }
-.-i_hourglass {
+.-i_bomb {
   width: 16px;
   height: 16px;
   background-position: -416px -352px;
 }
-.-i_target {
+.-i_hourglass {
   width: 16px;
   height: 16px;
   background-position: -448px -352px;
 }
-.-i_phone {
+.-i_target {
   width: 16px;
   height: 16px;
   background-position: -480px -352px;
 }
-.-i_auction_hammer {
+.-i_phone {
   width: 16px;
   height: 16px;
   background-position: 0 -384px;
 }
-.-i_balance {
+.-i_auction_hammer {
   width: 16px;
   height: 16px;
   background-position: -32px -384px;
 }
-.-i_prize_ribbon {
+.-i_balance {
   width: 16px;
   height: 16px;
   background-position: -64px -384px;
 }
-.-i_place123 {
+.-i_prize_ribbon {
   width: 16px;
   height: 16px;
   background-position: -96px -384px;
 }
-.-i_medal {
+.-i_place123 {
   width: 16px;
   height: 16px;
   background-position: -128px -384px;
 }
-.-i_balloon {
+.-i_medal {
   width: 16px;
   height: 16px;
   background-position: -160px -384px;
 }
-.-i_lifebelt {
+.-i_balloon {
   width: 16px;
   height: 16px;
   background-position: -192px -384px;
 }
-.-i_anchor {
+.-i_lifebelt {
   width: 16px;
   height: 16px;
   background-position: -224px -384px;
 }
-.-i_bell_off {
+.-i_anchor {
   width: 16px;
   height: 16px;
   background-position: -256px -384px;
 }
-.-i_brief_case {
+.-i_bell_off {
   width: 16px;
   height: 16px;
   background-position: -288px -384px;
 }
-.-i_bell {
+.-i_brief_case {
   width: 16px;
   height: 16px;
   background-position: -320px -384px;
 }
-.-i_thermometer {
+.-i_bell {
   width: 16px;
   height: 16px;
   background-position: -352px -384px;
 }
-.-i_stethoscope {
+.-i_thermometer {
   width: 16px;
   height: 16px;
   background-position: -384px -384px;
 }
-.-i_dna {
+.-i_stethoscope {
   width: 16px;
   height: 16px;
   background-position: -416px -384px;
 }
-.-i_gear {
+.-i_dna {
   width: 16px;
   height: 16px;
   background-position: -448px -384px;
 }
-.-i_gears {
+.-i_gear {
   width: 16px;
   height: 16px;
   background-position: -480px -384px;
 }
-.-i_lion {
+.-i_gears {
   width: 16px;
   height: 16px;
   background-position: 0 -416px;
 }
-.-i_music_note {
+.-i_lion {
   width: 16px;
   height: 16px;
   background-position: -32px -416px;
 }
-.-i_photo_camera {
+.-i_music_note {
   width: 16px;
   height: 16px;
   background-position: -64px -416px;
 }
-.-i_video_camera {
+.-i_photo_camera {
   width: 16px;
   height: 16px;
   background-position: -96px -416px;
 }
-.-i_microphone {
+.-i_video_camera {
   width: 16px;
   height: 16px;
   background-position: -128px -416px;
 }
-.-i_microphone_off {
+.-i_microphone {
   width: 16px;
   height: 16px;
   background-position: -160px -416px;
 }
-.-i_picture {
+.-i_microphone_off {
   width: 16px;
   height: 16px;
   background-position: -192px -416px;
 }
-.-i_slider {
+.-i_picture {
   width: 16px;
   height: 16px;
   background-position: -224px -416px;
 }
-.-i_speaker {
+.-i_slider {
   width: 16px;
   height: 16px;
   background-position: -256px -416px;
 }
-.-i_speaker_off {
+.-i_speaker {
   width: 16px;
   height: 16px;
   background-position: -288px -416px;
 }
-.-i_headphones {
+.-i_speaker_off {
   width: 16px;
   height: 16px;
   background-position: -320px -416px;
 }
-.-i_flag_finish {
+.-i_headphones {
   width: 16px;
   height: 16px;
   background-position: -352px -416px;
 }
-.-i_flag {
+.-i_flag_finish {
   width: 16px;
   height: 16px;
   background-position: -384px -416px;
 }
-.-i_box_paper {
+.-i_flag {
   width: 16px;
   height: 16px;
   background-position: -416px -416px;
 }
-.-i_box_gift {
+.-i_box_paper {
   width: 16px;
   height: 16px;
   background-position: -448px -416px;
 }
-.-i_box_3d {
+.-i_box_gift {
   width: 16px;
   height: 16px;
   background-position: -480px -416px;
 }
-.-i_box_treasure {
+.-i_box_3d {
   width: 16px;
   height: 16px;
   background-position: 0 -448px;
 }
-.-i_star5 {
+.-i_box_treasure {
   width: 16px;
   height: 16px;
   background-position: -32px -448px;
 }
-.-i_shopping_cart {
+.-i_star5 {
   width: 16px;
   height: 16px;
   background-position: -64px -448px;
 }
-.-i_tag {
+.-i_shopping_cart {
   width: 16px;
   height: 16px;
   background-position: -96px -448px;
 }
-.-i_tag_price {
+.-i_tag {
   width: 16px;
   height: 16px;
   background-position: -128px -448px;
 }
-.-i_bag {
+.-i_tag_price {
   width: 16px;
   height: 16px;
   background-position: -160px -448px;
 }
-.-i_receipt {
+.-i_bag {
   width: 16px;
   height: 16px;
   background-position: -192px -448px;
 }
-.-i_barcode {
+.-i_receipt {
   width: 16px;
   height: 16px;
   background-position: -224px -448px;
 }
-.-i_qr {
+.-i_barcode {
   width: 16px;
   height: 16px;
   background-position: -256px -448px;
 }
+.-i_qr {
+  width: 16px;
+  height: 16px;
+  background-position: -288px -448px;
+}
 .-i_ifeed {
   width: 60px;
   height: 16px;
-  background-position: -288px -448px;
+  background-position: -320px -448px;
 }
 .-i_investira_h {
   width: 84px;
   height: 16px;
-  background-position: -384px -448px;
+  background-position: 0 -480px;
 }
 .-i_investira_h_biz {
   width: 104px;
   height: 16px;
-  background-position: 0 -480px;
+  background-position: -96px -480px;
 }
 .-i_investira_h_pro {
   width: 102px;
   height: 16px;
-  background-position: -128px -480px;
+  background-position: -224px -480px;
 }
 .-i_investira_v {
   width: 25px;
   height: 16px;
-  background-position: -256px -480px;
+  background-position: -352px -480px;
 }
 .-i_investira_icon {
   width: 16px;
   height: 16px;
-  background-position: -320px -480px;
+  background-position: -416px -480px;
 }
 

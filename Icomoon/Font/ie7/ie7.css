@@ -406,313 +406,316 @@
 .-i_workstation {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe987;');
 }
-.-i_chip {
+.-i_multiplataform {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe988;');
 }
-.-i_menu {
+.-i_chip {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe989;');
 }
-.-i_more {
+.-i_menu {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98a;');
 }
-.-i_backup {
+.-i_more {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98b;');
 }
-.-i_opensource {
+.-i_backup {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98c;');
 }
-.-i_facebook {
+.-i_opensource {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98d;');
 }
-.-i_twitter {
+.-i_facebook {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98e;');
 }
-.-i_googleplus {
+.-i_twitter {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe98f;');
 }
-.-i_instagram {
+.-i_googleplus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe990;');
 }
-.-i_linkedin {
+.-i_instagram {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe991;');
 }
-.-i_clock {
+.-i_linkedin {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe992;');
 }
-.-i_clock_alarm {
+.-i_clock {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe993;');
 }
-.-i_clock_timer {
+.-i_clock_alarm {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe994;');
 }
-.-i_clock_schedule {
+.-i_clock_timer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe995;');
 }
-.-i_runnig_timer {
+.-i_clock_schedule {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe996;');
 }
-.-i_bike {
+.-i_runnig_timer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe997;');
 }
-.-i_car {
+.-i_bike {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe998;');
 }
-.-i_taxi {
+.-i_car {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe999;');
 }
-.-i_train {
+.-i_taxi {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99a;');
 }
-.-i_bus {
+.-i_train {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99b;');
 }
-.-i_airplane {
+.-i_bus {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99c;');
 }
-.-i_copter {
+.-i_airplane {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99d;');
 }
-.-i_ship {
+.-i_copter {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99e;');
 }
-.-i_truck {
+.-i_ship {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe99f;');
 }
-.-i_traffic_light {
+.-i_truck {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a0;');
 }
-.-i_traffic_cone {
+.-i_traffic_light {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a1;');
 }
-.-i_gas_pump {
+.-i_traffic_cone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a2;');
 }
-.-i_wheel {
+.-i_gas_pump {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a3;');
 }
-.-i_steering_wheel {
+.-i_wheel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a4;');
 }
-.-i_control_panel {
+.-i_steering_wheel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a5;');
 }
-.-i_sign_prohibid {
+.-i_control_panel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a6;');
 }
-.-i_sign_recycle {
+.-i_sign_prohibid {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a7;');
 }
-.-i_sign_radioactive {
+.-i_sign_recycle {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a8;');
 }
-.-i_sign_accessibility {
+.-i_sign_radioactive {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9a9;');
 }
-.-i_policeman {
+.-i_sign_accessibility {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9aa;');
 }
-.-i_workman {
+.-i_policeman {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ab;');
 }
-.-i_callcenter {
+.-i_workman {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ac;');
 }
-.-i_cloud {
+.-i_callcenter {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ad;');
 }
-.-i_cloud_rain {
+.-i_cloud {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ae;');
 }
-.-i_cloud_lightning {
+.-i_cloud_rain {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9af;');
 }
-.-i_wind {
+.-i_cloud_lightning {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b0;');
 }
-.-i_compasses {
+.-i_wind {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b1;');
 }
-.-i_shovel {
+.-i_compasses {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b2;');
 }
-.-i_wrench {
+.-i_shovel {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b3;');
 }
-.-i_hammer {
+.-i_wrench {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b4;');
 }
-.-i_magnet {
+.-i_hammer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b5;');
 }
-.-i_lamp {
+.-i_magnet {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b6;');
 }
-.-i_key {
+.-i_lamp {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b7;');
 }
-.-i_keyhole {
+.-i_key {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b8;');
 }
-.-i_glasses {
+.-i_keyhole {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9b9;');
 }
-.-i_paper_plane {
+.-i_glasses {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ba;');
 }
-.-i_umbrella {
+.-i_paper_plane {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bb;');
 }
-.-i_bomb {
+.-i_umbrella {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bc;');
 }
-.-i_hourglass {
+.-i_bomb {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bd;');
 }
-.-i_target {
+.-i_hourglass {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9be;');
 }
-.-i_phone {
+.-i_target {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9bf;');
 }
-.-i_auction_hammer {
+.-i_phone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c0;');
 }
-.-i_balance {
+.-i_auction_hammer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c1;');
 }
-.-i_prize_ribbon {
+.-i_balance {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c2;');
 }
-.-i_place123 {
+.-i_prize_ribbon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c3;');
 }
-.-i_medal {
+.-i_place123 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c4;');
 }
-.-i_balloon {
+.-i_medal {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c5;');
 }
-.-i_lifebelt {
+.-i_balloon {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c6;');
 }
-.-i_anchor {
+.-i_lifebelt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c7;');
 }
-.-i_bell_off {
+.-i_anchor {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c8;');
 }
-.-i_brief_case {
+.-i_bell_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9c9;');
 }
-.-i_bell {
+.-i_brief_case {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ca;');
 }
-.-i_thermometer {
+.-i_bell {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cb;');
 }
-.-i_stethoscope {
+.-i_thermometer {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cc;');
 }
-.-i_dna {
+.-i_stethoscope {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cd;');
 }
-.-i_gear {
+.-i_dna {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ce;');
 }
-.-i_gears {
+.-i_gear {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9cf;');
 }
-.-i_lion {
+.-i_gears {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d0;');
 }
-.-i_music_note {
+.-i_lion {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d1;');
 }
-.-i_photo_camera {
+.-i_music_note {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d2;');
 }
-.-i_video_camera {
+.-i_photo_camera {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d3;');
 }
-.-i_microphone {
+.-i_video_camera {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d4;');
 }
-.-i_microphone_off {
+.-i_microphone {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d5;');
 }
-.-i_picture {
+.-i_microphone_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d6;');
 }
-.-i_slider {
+.-i_picture {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d7;');
 }
-.-i_speaker {
+.-i_slider {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d8;');
 }
-.-i_speaker_off {
+.-i_speaker {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9d9;');
 }
-.-i_headphones {
+.-i_speaker_off {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9da;');
 }
-.-i_flag_finish {
+.-i_headphones {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9db;');
 }
-.-i_flag {
+.-i_flag_finish {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dc;');
 }
-.-i_box_paper {
+.-i_flag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9dd;');
 }
-.-i_box_gift {
+.-i_box_paper {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9de;');
 }
-.-i_box_3d {
+.-i_box_gift {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9df;');
 }
-.-i_box_treasure {
+.-i_box_3d {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e0;');
 }
-.-i_star5 {
+.-i_box_treasure {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e1;');
 }
-.-i_shopping_cart {
+.-i_star5 {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e2;');
 }
-.-i_tag {
+.-i_shopping_cart {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e3;');
 }
-.-i_tag_price {
+.-i_tag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e4;');
 }
-.-i_bag {
+.-i_tag_price {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e5;');
 }
-.-i_receipt {
+.-i_bag {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e6;');
 }
-.-i_barcode {
+.-i_receipt {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e7;');
 }
-.-i_qr {
+.-i_barcode {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e8;');
 }
-.-i_ifeed {
+.-i_qr {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9e9;');
 }
-.-i_investira_h {
+.-i_ifeed {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ea;');
 }
-.-i_investira_h_biz {
+.-i_investira_h {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9eb;');
 }
-.-i_investira_h_pro {
+.-i_investira_h_biz {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ec;');
 }
-.-i_investira_v {
+.-i_investira_h_pro {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ed;');
 }
-.-i_investira_icon {
+.-i_investira_v {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ee;');
+}
+.-i_investira_icon {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe9ef;');
 }
 
