@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Investira';
-  src:  url('fonts/Investira.eot?nyy2gk');
-  src:  url('fonts/Investira.eot?nyy2gk#iefix') format('embedded-opentype'),
-    url('fonts/Investira.ttf?nyy2gk') format('truetype'),
-    url('fonts/Investira.woff?nyy2gk') format('woff'),
-    url('fonts/Investira.svg?nyy2gk#Investira') format('svg');
+  src:  url('fonts/Investira.eot?t6mifj');
+  src:  url('fonts/Investira.eot?t6mifj#iefix') format('embedded-opentype'),
+    url('fonts/Investira.ttf?t6mifj') format('truetype'),
+    url('fonts/Investira.woff?t6mifj') format('woff'),
+    url('fonts/Investira.svg?t6mifj#Investira') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -60,10 +60,10 @@
 .-i_share:before {
   content: "\e90b";
 }
-.-i_share_right:before {
+.-i_share_left:before {
   content: "\e90c";
 }
-.-i_share_left:before {
+.-i_share_right:before {
   content: "\e90d";
 }
 .-i_share_left-right:before {
@@ -87,10 +87,10 @@
 .-i_checkbox:before {
   content: "\e914";
 }
-.-i_checkbox_invert:before {
+.-i_checkbox_select:before {
   content: "\e915";
 }
-.-i_checkbox_select:before {
+.-i_checkbox_invert:before {
   content: "\e916";
 }
 .-i_option:before {
@@ -213,10 +213,10 @@
 .-i_compass:before {
   content: "\e93e";
 }
-.-i_map:before {
+.-i_location:before {
   content: "\e93f";
 }
-.-i_location:before {
+.-i_map:before {
   content: "\e940";
 }
 .-i_unlock:before {
@@ -225,10 +225,10 @@
 .-i_lock:before {
   content: "\e942";
 }
-.-i_unlink:before {
+.-i_link:before {
   content: "\e943";
 }
-.-i_link:before {
+.-i_unlink:before {
   content: "\e944";
 }
 .-i_zoom_in:before {
@@ -438,10 +438,10 @@
 .-i_multiplataform:before {
   content: "\e989";
 }
-.-i_menu:before {
+.-i_more:before {
   content: "\e98a";
 }
-.-i_more:before {
+.-i_menu:before {
   content: "\e98b";
 }
 .-i_opensource:before {
@@ -534,10 +534,10 @@
 .-i_sign_radioactive:before {
   content: "\e9a9";
 }
-.-i_policeman:before {
+.-i_sign_accessibility:before {
   content: "\e9aa";
 }
-.-i_sign_accessibility:before {
+.-i_policeman:before {
   content: "\e9ab";
 }
 .-i_workman:before {
@@ -741,9 +741,9 @@
 .-i_Investira_h_vc:before {
   content: "\e9ee";
 }
-.-i_investira_icon:before {
+.-i_investira_v:before {
   content: "\e9ef";
 }
-.-i_investira_v:before {
+.-i_investira_icon:before {
   content: "\e9f0";
 }

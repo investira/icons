@@ -63,12 +63,12 @@
   height: 24px;
   background-position: -275px 0;
 }
-.-i_share_right {
+.-i_share_left {
   width: 24px;
   height: 24px;
   background-position: -300px 0;
 }
-.-i_share_left {
+.-i_share_right {
   width: 24px;
   height: 24px;
   background-position: -325px 0;
@@ -108,12 +108,12 @@
   height: 24px;
   background-position: -500px 0;
 }
-.-i_checkbox_invert {
+.-i_checkbox_select {
   width: 24px;
   height: 24px;
   background-position: -525px 0;
 }
-.-i_checkbox_select {
+.-i_checkbox_invert {
   width: 24px;
   height: 24px;
   background-position: -550px 0;
@@ -318,12 +318,12 @@
   height: 24px;
   background-position: -350px -50px;
 }
-.-i_map {
+.-i_location {
   width: 24px;
   height: 24px;
   background-position: -375px -50px;
 }
-.-i_location {
+.-i_map {
   width: 24px;
   height: 24px;
   background-position: -400px -50px;
@@ -338,12 +338,12 @@
   height: 24px;
   background-position: -450px -50px;
 }
-.-i_unlink {
+.-i_link {
   width: 24px;
   height: 24px;
   background-position: -475px -50px;
 }
-.-i_link {
+.-i_unlink {
   width: 24px;
   height: 24px;
   background-position: -500px -50px;
@@ -693,12 +693,12 @@
   height: 24px;
   background-position: -425px -125px;
 }
-.-i_menu {
+.-i_more {
   width: 24px;
   height: 24px;
   background-position: -450px -125px;
 }
-.-i_more {
+.-i_menu {
   width: 24px;
   height: 24px;
   background-position: -475px -125px;
@@ -853,12 +853,12 @@
   height: 24px;
   background-position: -25px -175px;
 }
-.-i_policeman {
+.-i_sign_accessibility {
   width: 24px;
   height: 24px;
   background-position: -50px -175px;
 }
-.-i_sign_accessibility {
+.-i_policeman {
   width: 24px;
   height: 24px;
   background-position: -75px -175px;
@@ -1198,14 +1198,14 @@
   height: 24px;
   background-position: 0 -275px;
 }
-.-i_investira_icon {
-  width: 24px;
-  height: 24px;
-  background-position: -175px -275px;
-}
 .-i_investira_v {
   width: 37px;
   height: 24px;
-  background-position: -200px -275px;
+  background-position: -175px -275px;
+}
+.-i_investira_icon {
+  width: 24px;
+  height: 24px;
+  background-position: -225px -275px;
 }
 
