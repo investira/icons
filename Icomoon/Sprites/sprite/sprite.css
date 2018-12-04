@@ -8,57 +8,57 @@
   height: 24px;
   background-position: 0 0;
 }
-.-i_cancel {
+.-i_insert {
   width: 24px;
   height: 24px;
   background-position: -25px 0;
 }
-.-i_insert {
+.-i_cancel {
   width: 24px;
   height: 24px;
   background-position: -50px 0;
 }
-.-i_save {
+.-i_refresh {
   width: 24px;
   height: 24px;
   background-position: -75px 0;
 }
-.-i_edit {
+.-i_save {
   width: 24px;
   height: 24px;
   background-position: -100px 0;
 }
-.-i_delete {
+.-i_synchronize {
   width: 24px;
   height: 24px;
   background-position: -125px 0;
 }
-.-i_find {
+.-i_filter {
   width: 24px;
   height: 24px;
   background-position: -150px 0;
 }
-.-i_refresh {
+.-i_share {
   width: 24px;
   height: 24px;
   background-position: -175px 0;
 }
-.-i_synchronize {
+.-i_edit {
   width: 24px;
   height: 24px;
   background-position: -200px 0;
 }
-.-i_filter {
+.-i_delete {
   width: 24px;
   height: 24px;
   background-position: -225px 0;
 }
-.-i_undo {
+.-i_share_right {
   width: 24px;
   height: 24px;
   background-position: -250px 0;
 }
-.-i_share {
+.-i_undo {
   width: 24px;
   height: 24px;
   background-position: -275px 0;
@@ -68,17 +68,17 @@
   height: 24px;
   background-position: -300px 0;
 }
-.-i_share_right {
+.-i_share_left-right {
   width: 24px;
   height: 24px;
   background-position: -325px 0;
 }
-.-i_share_left-right {
+.-i_success {
   width: 24px;
   height: 24px;
   background-position: -350px 0;
 }
-.-i_success {
+.-i_find {
   width: 24px;
   height: 24px;
   background-position: -375px 0;
@@ -213,12 +213,12 @@
   height: 24px;
   background-position: -425px -25px;
 }
-.-i_arrow-down-circle {
+.-i_arrow-bottom-circle {
   width: 24px;
   height: 24px;
   background-position: -450px -25px;
 }
-.-i_arrow-bottom-circle {
+.-i_arrow-down-circle {
   width: 24px;
   height: 24px;
   background-position: -475px -25px;
@@ -293,17 +293,17 @@
   height: 24px;
   background-position: -225px -50px;
 }
-.-i_media_pause {
+.-i_moon {
   width: 24px;
   height: 24px;
   background-position: -250px -50px;
 }
-.-i_sun {
+.-i_media_pause {
   width: 24px;
   height: 24px;
   background-position: -275px -50px;
 }
-.-i_moon {
+.-i_sun {
   width: 24px;
   height: 24px;
   background-position: -300px -50px;
@@ -453,17 +453,17 @@
   height: 24px;
   background-position: -425px -75px;
 }
-.-i_paper_clip {
+.-i_stapler {
   width: 24px;
   height: 24px;
   background-position: -450px -75px;
 }
-.-i_stapler {
+.-i_scissors {
   width: 24px;
   height: 24px;
   background-position: -475px -75px;
 }
-.-i_scissors {
+.-i_paper_clip {
   width: 24px;
   height: 24px;
   background-position: -500px -75px;
@@ -693,22 +693,22 @@
   height: 24px;
   background-position: -425px -125px;
 }
-.-i_more {
+.-i_menu {
   width: 24px;
   height: 24px;
   background-position: -450px -125px;
 }
-.-i_menu {
+.-i_more {
   width: 24px;
   height: 24px;
   background-position: -475px -125px;
 }
-.-i_opensource {
+.-i_backup {
   width: 24px;
   height: 24px;
   background-position: -500px -125px;
 }
-.-i_backup {
+.-i_opensource {
   width: 24px;
   height: 24px;
   background-position: -525px -125px;
