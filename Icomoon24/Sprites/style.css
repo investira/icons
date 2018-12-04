@@ -1,0 +1,36 @@
+[class^="-i_"], [class*=" -i_"] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.-i_name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.-i_ifeed {
+  width: 3.724609375em;
+}
+
+.-i_investira_h {
+  width: 5.236328125em;
+}
+
+.-i_investira_h_biz {
+  width: 6.49609375em;
+}
+
+.-i_investira_h_pro {
+  width: 6.4052734375em;
+}
+
+.-i_investira_v {
+  width: 1.556640625em;
+}
