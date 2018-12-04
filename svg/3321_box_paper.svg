@@ -2,8 +2,10 @@
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="16px" height="16px" viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">
-<path style="fill:#231F20;" d="M11,9H6.139C5.845,9,5.64,8.893,5.472,8.652L5,8.001L9.877,8c0.293,0,0.499,0.106,0.667,0.348L11,9z
-	 M16,2.5v3c0,0.553-0.448,1-1,1h-1V14c0,0.276-0.224,0.5-0.5,0.5h-11C2.224,14.5,2,14.276,2,14V6.5H1c-0.552,0-1-0.447-1-1v-3
-	c0-0.553,0.448-1,1-1h14C15.552,1.5,16,1.947,16,2.5z M13,6.5H3v7h10V6.5z M15,2.5H1v3h14V2.5z"/>
+	 width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path style="fill:#231F20;" d="M16.125,13.375H9.441c-0.404,0-0.686-0.147-0.917-0.479l-0.649-0.896L14.581,12
+	c0.402,0,0.685,0.146,0.917,0.479L16.125,13.375z M23,4.438v4.125c0,0.76-0.616,1.375-1.375,1.375H20.25V20.25
+	c0,0.38-0.308,0.688-0.688,0.688H4.438c-0.38,0-0.688-0.308-0.688-0.688V9.938H2.375C1.616,9.938,1,9.322,1,8.562V4.438
+	c0-0.76,0.616-1.375,1.375-1.375h19.25C22.384,3.062,23,3.678,23,4.438z M18.875,9.938H5.125v9.625h13.75V9.938z M21.625,4.438
+	H2.375v4.125h19.25V4.438z"/>
 </svg>
