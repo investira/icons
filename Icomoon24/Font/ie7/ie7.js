@@ -69,6 +69,8 @@
 		'-i_sort': '&#xe935;',
 		'-i_sort_asc': '&#xe936;',
 		'-i_sort_des': '&#xe937;',
+		'-i_arrow_positive': '&#xe9f0;',
+		'-i_arrow_negative': '&#xe9f1;',
 		'-i_media_play': '&#xe938;',
 		'-i_media_stop': '&#xe939;',
 		'-i_media_pause': '&#xe93a;',

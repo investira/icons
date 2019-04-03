@@ -283,900 +283,910 @@
   height: 24px;
   background-position: -280px -120px;
 }
-.-i_media_play {
+.-i_arrow_positive {
   width: 24px;
   height: 24px;
   background-position: -320px -120px;
 }
-.-i_media_stop {
+.-i_arrow_negative {
   width: 24px;
   height: 24px;
   background-position: -360px -120px;
 }
-.-i_media_pause {
+.-i_media_play {
   width: 24px;
   height: 24px;
   background-position: -400px -120px;
 }
-.-i_sun {
+.-i_media_stop {
   width: 24px;
   height: 24px;
   background-position: -440px -120px;
 }
-.-i_moon {
+.-i_media_pause {
   width: 24px;
   height: 24px;
   background-position: -480px -120px;
 }
-.-i_earth {
+.-i_sun {
   width: 24px;
   height: 24px;
   background-position: -520px -120px;
 }
-.-i_compass {
+.-i_moon {
   width: 24px;
   height: 24px;
   background-position: -560px -120px;
 }
-.-i_location {
+.-i_earth {
   width: 24px;
   height: 24px;
   background-position: -600px -120px;
 }
-.-i_map {
+.-i_compass {
   width: 24px;
   height: 24px;
   background-position: 0 -160px;
 }
-.-i_unlock {
+.-i_location {
   width: 24px;
   height: 24px;
   background-position: -40px -160px;
 }
-.-i_lock {
+.-i_map {
   width: 24px;
   height: 24px;
   background-position: -80px -160px;
 }
-.-i_link {
+.-i_unlock {
   width: 24px;
   height: 24px;
   background-position: -120px -160px;
 }
-.-i_unlink {
+.-i_lock {
   width: 24px;
   height: 24px;
   background-position: -160px -160px;
 }
-.-i_zoom_in {
+.-i_link {
   width: 24px;
   height: 24px;
   background-position: -200px -160px;
 }
-.-i_zoom_out {
+.-i_unlink {
   width: 24px;
   height: 24px;
   background-position: -240px -160px;
 }
-.-i_zoom_money {
+.-i_zoom_in {
   width: 24px;
   height: 24px;
   background-position: -280px -160px;
 }
-.-i_home {
+.-i_zoom_out {
   width: 24px;
   height: 24px;
   background-position: -320px -160px;
 }
-.-i_office_building {
+.-i_zoom_money {
   width: 24px;
   height: 24px;
   background-position: -360px -160px;
 }
-.-i_factory {
+.-i_home {
   width: 24px;
   height: 24px;
   background-position: -400px -160px;
 }
-.-i_parthenon {
+.-i_office_building {
   width: 24px;
   height: 24px;
   background-position: -440px -160px;
 }
-.-i_store {
+.-i_factory {
   width: 24px;
   height: 24px;
   background-position: -480px -160px;
 }
-.-i_hospital {
+.-i_parthenon {
   width: 24px;
   height: 24px;
   background-position: -520px -160px;
 }
-.-i_newspaper {
+.-i_store {
   width: 24px;
   height: 24px;
   background-position: -560px -160px;
 }
-.-i_portofolio {
+.-i_hospital {
   width: 24px;
   height: 24px;
   background-position: -600px -160px;
 }
-.-i_calendar {
+.-i_newspaper {
   width: 24px;
   height: 24px;
   background-position: 0 -200px;
 }
-.-i_todo {
+.-i_portofolio {
   width: 24px;
   height: 24px;
   background-position: -40px -200px;
 }
-.-i_paper {
+.-i_calendar {
   width: 24px;
   height: 24px;
   background-position: -80px -200px;
 }
-.-i_papers {
+.-i_todo {
   width: 24px;
   height: 24px;
   background-position: -120px -200px;
 }
-.-i_paper_text {
+.-i_paper {
   width: 24px;
   height: 24px;
   background-position: -160px -200px;
 }
-.-i_paper_printer {
+.-i_papers {
   width: 24px;
   height: 24px;
   background-position: -200px -200px;
 }
-.-i_paper_ribbon {
+.-i_paper_text {
   width: 24px;
   height: 24px;
   background-position: -240px -200px;
 }
-.-i_paper_organizer {
+.-i_paper_printer {
   width: 24px;
   height: 24px;
   background-position: -280px -200px;
 }
-.-i_file_cabinet {
+.-i_paper_ribbon {
   width: 24px;
   height: 24px;
   background-position: -320px -200px;
 }
-.-i_stamp {
+.-i_paper_organizer {
   width: 24px;
   height: 24px;
   background-position: -360px -200px;
 }
-.-i_paper_clip {
+.-i_file_cabinet {
   width: 24px;
   height: 24px;
   background-position: -400px -200px;
 }
-.-i_stapler {
+.-i_stamp {
   width: 24px;
   height: 24px;
   background-position: -440px -200px;
 }
-.-i_scissors {
+.-i_paper_clip {
   width: 24px;
   height: 24px;
   background-position: -480px -200px;
 }
-.-i_book {
+.-i_stapler {
   width: 24px;
   height: 24px;
   background-position: -520px -200px;
 }
-.-i_books {
+.-i_scissors {
   width: 24px;
   height: 24px;
   background-position: -560px -200px;
 }
-.-i_graduation_cap {
+.-i_book {
   width: 24px;
   height: 24px;
   background-position: -600px -200px;
 }
-.-i_message {
+.-i_books {
   width: 24px;
   height: 24px;
   background-position: 0 -240px;
 }
-.-i_messages {
+.-i_graduation_cap {
   width: 24px;
   height: 24px;
   background-position: -40px -240px;
 }
-.-i_mail {
+.-i_message {
   width: 24px;
   height: 24px;
   background-position: -80px -240px;
 }
-.-i_at {
+.-i_messages {
   width: 24px;
   height: 24px;
   background-position: -120px -240px;
 }
-.-i_eye_off {
+.-i_mail {
   width: 24px;
   height: 24px;
   background-position: -160px -240px;
 }
-.-i_eye {
+.-i_at {
   width: 24px;
   height: 24px;
   background-position: -200px -240px;
 }
-.-i_heart {
+.-i_eye_off {
   width: 24px;
   height: 24px;
   background-position: -240px -240px;
 }
-.-i_cardio {
+.-i_eye {
   width: 24px;
   height: 24px;
   background-position: -280px -240px;
 }
-.-i_hand {
+.-i_heart {
   width: 24px;
   height: 24px;
   background-position: -320px -240px;
 }
-.-i_delta {
+.-i_cardio {
   width: 24px;
   height: 24px;
   background-position: -360px -240px;
 }
-.-i_account_activity {
+.-i_hand {
   width: 24px;
   height: 24px;
   background-position: -400px -240px;
 }
-.-i_calculator {
+.-i_delta {
   width: 24px;
   height: 24px;
   background-position: -440px -240px;
 }
-.-i_chart_pizza {
+.-i_account_activity {
   width: 24px;
   height: 24px;
   background-position: -480px -240px;
 }
-.-i_chart_line {
+.-i_calculator {
   width: 24px;
   height: 24px;
   background-position: -520px -240px;
 }
-.-i_chart_bar {
+.-i_chart_pizza {
   width: 24px;
   height: 24px;
   background-position: -560px -240px;
 }
-.-i_chart_cashflow {
+.-i_chart_line {
   width: 24px;
   height: 24px;
   background-position: -600px -240px;
 }
-.-i_chart_lines {
+.-i_chart_bar {
   width: 24px;
   height: 24px;
   background-position: 0 -280px;
 }
-.-i_currency_yen {
+.-i_chart_cashflow {
   width: 24px;
   height: 24px;
   background-position: -40px -280px;
 }
-.-i_currency_euro {
+.-i_chart_lines {
   width: 24px;
   height: 24px;
   background-position: -80px -280px;
 }
-.-i_currency_pound {
+.-i_currency_yen {
   width: 24px;
   height: 24px;
   background-position: -120px -280px;
 }
-.-i_coin {
+.-i_currency_euro {
   width: 24px;
   height: 24px;
   background-position: -160px -280px;
 }
-.-i_coins {
+.-i_currency_pound {
   width: 24px;
   height: 24px;
   background-position: -200px -280px;
 }
-.-i_bill {
+.-i_coin {
   width: 24px;
   height: 24px;
   background-position: -240px -280px;
 }
-.-i_bills {
+.-i_coins {
   width: 24px;
   height: 24px;
   background-position: -280px -280px;
 }
-.-i_percent {
+.-i_bill {
   width: 24px;
   height: 24px;
   background-position: -320px -280px;
 }
-.-i_safe {
+.-i_bills {
   width: 24px;
   height: 24px;
   background-position: -360px -280px;
 }
-.-i_money_saving {
+.-i_percent {
   width: 24px;
   height: 24px;
   background-position: -400px -280px;
 }
-.-i_wallet {
+.-i_safe {
   width: 24px;
   height: 24px;
   background-position: -440px -280px;
 }
-.-i_creditcard {
+.-i_money_saving {
   width: 24px;
   height: 24px;
   background-position: -480px -280px;
 }
-.-i_money_bag {
+.-i_wallet {
   width: 24px;
   height: 24px;
   background-position: -520px -280px;
 }
-.-i_investiment {
+.-i_creditcard {
   width: 24px;
   height: 24px;
   background-position: -560px -280px;
 }
-.-i_printer {
+.-i_money_bag {
   width: 24px;
   height: 24px;
   background-position: -600px -280px;
 }
-.-i_folder {
+.-i_investiment {
   width: 24px;
   height: 24px;
   background-position: 0 -320px;
 }
-.-i_bug {
+.-i_printer {
   width: 24px;
   height: 24px;
   background-position: -40px -320px;
 }
-.-i_wifi_off {
+.-i_folder {
   width: 24px;
   height: 24px;
   background-position: -80px -320px;
 }
-.-i_wifi {
+.-i_bug {
   width: 24px;
   height: 24px;
   background-position: -120px -320px;
 }
-.-i_database {
+.-i_wifi_off {
   width: 24px;
   height: 24px;
   background-position: -160px -320px;
 }
-.-i_servers {
+.-i_wifi {
   width: 24px;
   height: 24px;
   background-position: -200px -320px;
 }
-.-i_mobile {
+.-i_database {
   width: 24px;
   height: 24px;
   background-position: -240px -320px;
 }
-.-i_workstation {
+.-i_servers {
   width: 24px;
   height: 24px;
   background-position: -280px -320px;
 }
-.-i_multiplataform {
+.-i_mobile {
   width: 24px;
   height: 24px;
   background-position: -320px -320px;
 }
-.-i_chip {
+.-i_workstation {
   width: 24px;
   height: 24px;
   background-position: -360px -320px;
 }
-.-i_menu {
+.-i_multiplataform {
   width: 24px;
   height: 24px;
   background-position: -400px -320px;
 }
-.-i_more {
+.-i_chip {
   width: 24px;
   height: 24px;
   background-position: -440px -320px;
 }
-.-i_backup {
+.-i_menu {
   width: 24px;
   height: 24px;
   background-position: -480px -320px;
 }
-.-i_opensource {
+.-i_more {
   width: 24px;
   height: 24px;
   background-position: -520px -320px;
 }
-.-i_facebook {
+.-i_backup {
   width: 24px;
   height: 24px;
   background-position: -560px -320px;
 }
-.-i_twitter {
+.-i_opensource {
   width: 24px;
   height: 24px;
   background-position: -600px -320px;
 }
-.-i_googleplus {
+.-i_facebook {
   width: 24px;
   height: 24px;
   background-position: 0 -360px;
 }
-.-i_instagram {
+.-i_twitter {
   width: 24px;
   height: 24px;
   background-position: -40px -360px;
 }
-.-i_linkedin {
+.-i_googleplus {
   width: 24px;
   height: 24px;
   background-position: -80px -360px;
 }
-.-i_clock {
+.-i_instagram {
   width: 24px;
   height: 24px;
   background-position: -120px -360px;
 }
-.-i_clock_alarm {
+.-i_linkedin {
   width: 24px;
   height: 24px;
   background-position: -160px -360px;
 }
-.-i_clock_timer {
+.-i_clock {
   width: 24px;
   height: 24px;
   background-position: -200px -360px;
 }
-.-i_clock_schedule {
+.-i_clock_alarm {
   width: 24px;
   height: 24px;
   background-position: -240px -360px;
 }
-.-i_runnig_timer {
+.-i_clock_timer {
   width: 24px;
   height: 24px;
   background-position: -280px -360px;
 }
-.-i_bike {
+.-i_clock_schedule {
   width: 24px;
   height: 24px;
   background-position: -320px -360px;
 }
-.-i_car {
+.-i_runnig_timer {
   width: 24px;
   height: 24px;
   background-position: -360px -360px;
 }
-.-i_taxi {
+.-i_bike {
   width: 24px;
   height: 24px;
   background-position: -400px -360px;
 }
-.-i_train {
+.-i_car {
   width: 24px;
   height: 24px;
   background-position: -440px -360px;
 }
-.-i_bus {
+.-i_taxi {
   width: 24px;
   height: 24px;
   background-position: -480px -360px;
 }
-.-i_airplane {
+.-i_train {
   width: 24px;
   height: 24px;
   background-position: -520px -360px;
 }
-.-i_copter {
+.-i_bus {
   width: 24px;
   height: 24px;
   background-position: -560px -360px;
 }
-.-i_ship {
+.-i_airplane {
   width: 24px;
   height: 24px;
   background-position: -600px -360px;
 }
-.-i_truck {
+.-i_copter {
   width: 24px;
   height: 24px;
   background-position: 0 -400px;
 }
-.-i_traffic_light {
+.-i_ship {
   width: 24px;
   height: 24px;
   background-position: -40px -400px;
 }
-.-i_traffic_cone {
+.-i_truck {
   width: 24px;
   height: 24px;
   background-position: -80px -400px;
 }
-.-i_gas_pump {
+.-i_traffic_light {
   width: 24px;
   height: 24px;
   background-position: -120px -400px;
 }
-.-i_wheel {
+.-i_traffic_cone {
   width: 24px;
   height: 24px;
   background-position: -160px -400px;
 }
-.-i_steering_wheel {
+.-i_gas_pump {
   width: 24px;
   height: 24px;
   background-position: -200px -400px;
 }
-.-i_control_panel {
+.-i_wheel {
   width: 24px;
   height: 24px;
   background-position: -240px -400px;
 }
-.-i_sign_prohibid {
+.-i_steering_wheel {
   width: 24px;
   height: 24px;
   background-position: -280px -400px;
 }
-.-i_sign_recycle {
+.-i_control_panel {
   width: 24px;
   height: 24px;
   background-position: -320px -400px;
 }
-.-i_sign_radioactive {
+.-i_sign_prohibid {
   width: 24px;
   height: 24px;
   background-position: -360px -400px;
 }
-.-i_sign_accessibility {
+.-i_sign_recycle {
   width: 24px;
   height: 24px;
   background-position: -400px -400px;
 }
-.-i_policeman {
+.-i_sign_radioactive {
   width: 24px;
   height: 24px;
   background-position: -440px -400px;
 }
-.-i_workman {
+.-i_sign_accessibility {
   width: 24px;
   height: 24px;
   background-position: -480px -400px;
 }
-.-i_callcenter {
+.-i_policeman {
   width: 24px;
   height: 24px;
   background-position: -520px -400px;
 }
-.-i_cloud {
+.-i_workman {
   width: 24px;
   height: 24px;
   background-position: -560px -400px;
 }
-.-i_cloud_rain {
+.-i_callcenter {
   width: 24px;
   height: 24px;
   background-position: -600px -400px;
 }
-.-i_cloud_lightning {
+.-i_cloud {
   width: 24px;
   height: 24px;
   background-position: 0 -440px;
 }
-.-i_wind {
+.-i_cloud_rain {
   width: 24px;
   height: 24px;
   background-position: -40px -440px;
 }
-.-i_compasses {
+.-i_cloud_lightning {
   width: 24px;
   height: 24px;
   background-position: -80px -440px;
 }
-.-i_shovel {
+.-i_wind {
   width: 24px;
   height: 24px;
   background-position: -120px -440px;
 }
-.-i_wrench {
+.-i_compasses {
   width: 24px;
   height: 24px;
   background-position: -160px -440px;
 }
-.-i_hammer {
+.-i_shovel {
   width: 24px;
   height: 24px;
   background-position: -200px -440px;
 }
-.-i_magnet {
+.-i_wrench {
   width: 24px;
   height: 24px;
   background-position: -240px -440px;
 }
-.-i_lamp {
+.-i_hammer {
   width: 24px;
   height: 24px;
   background-position: -280px -440px;
 }
-.-i_key {
+.-i_magnet {
   width: 24px;
   height: 24px;
   background-position: -320px -440px;
 }
-.-i_keyhole {
+.-i_lamp {
   width: 24px;
   height: 24px;
   background-position: -360px -440px;
 }
-.-i_glasses {
+.-i_key {
   width: 24px;
   height: 24px;
   background-position: -400px -440px;
 }
-.-i_paper_plane {
+.-i_keyhole {
   width: 24px;
   height: 24px;
   background-position: -440px -440px;
 }
-.-i_umbrella {
+.-i_glasses {
   width: 24px;
   height: 24px;
   background-position: -480px -440px;
 }
-.-i_bomb {
+.-i_paper_plane {
   width: 24px;
   height: 24px;
   background-position: -520px -440px;
 }
-.-i_hourglass {
+.-i_umbrella {
   width: 24px;
   height: 24px;
   background-position: -560px -440px;
 }
-.-i_target {
+.-i_bomb {
   width: 24px;
   height: 24px;
   background-position: -600px -440px;
 }
-.-i_phone {
+.-i_hourglass {
   width: 24px;
   height: 24px;
   background-position: 0 -480px;
 }
-.-i_auction_hammer {
+.-i_target {
   width: 24px;
   height: 24px;
   background-position: -40px -480px;
 }
-.-i_balance {
+.-i_phone {
   width: 24px;
   height: 24px;
   background-position: -80px -480px;
 }
-.-i_prize_ribbon {
+.-i_auction_hammer {
   width: 24px;
   height: 24px;
   background-position: -120px -480px;
 }
-.-i_place123 {
+.-i_balance {
   width: 24px;
   height: 24px;
   background-position: -160px -480px;
 }
-.-i_medal {
+.-i_prize_ribbon {
   width: 24px;
   height: 24px;
   background-position: -200px -480px;
 }
-.-i_balloon {
+.-i_place123 {
   width: 24px;
   height: 24px;
   background-position: -240px -480px;
 }
-.-i_lifebelt {
+.-i_medal {
   width: 24px;
   height: 24px;
   background-position: -280px -480px;
 }
-.-i_anchor {
+.-i_balloon {
   width: 24px;
   height: 24px;
   background-position: -320px -480px;
 }
-.-i_bell_off {
+.-i_lifebelt {
   width: 24px;
   height: 24px;
   background-position: -360px -480px;
 }
-.-i_brief_case {
+.-i_anchor {
   width: 24px;
   height: 24px;
   background-position: -400px -480px;
 }
-.-i_bell {
+.-i_bell_off {
   width: 24px;
   height: 24px;
   background-position: -440px -480px;
 }
-.-i_thermometer {
+.-i_brief_case {
   width: 24px;
   height: 24px;
   background-position: -480px -480px;
 }
-.-i_stethoscope {
+.-i_bell {
   width: 24px;
   height: 24px;
   background-position: -520px -480px;
 }
-.-i_dna {
+.-i_thermometer {
   width: 24px;
   height: 24px;
   background-position: -560px -480px;
 }
-.-i_gear {
+.-i_stethoscope {
   width: 24px;
   height: 24px;
   background-position: -600px -480px;
 }
-.-i_gears {
+.-i_dna {
   width: 24px;
   height: 24px;
   background-position: 0 -520px;
 }
-.-i_lion {
+.-i_gear {
   width: 24px;
   height: 24px;
   background-position: -40px -520px;
 }
-.-i_music_note {
+.-i_gears {
   width: 24px;
   height: 24px;
   background-position: -80px -520px;
 }
-.-i_photo_camera {
+.-i_lion {
   width: 24px;
   height: 24px;
   background-position: -120px -520px;
 }
-.-i_video_camera {
+.-i_music_note {
   width: 24px;
   height: 24px;
   background-position: -160px -520px;
 }
-.-i_microphone {
+.-i_photo_camera {
   width: 24px;
   height: 24px;
   background-position: -200px -520px;
 }
-.-i_microphone_off {
+.-i_video_camera {
   width: 24px;
   height: 24px;
   background-position: -240px -520px;
 }
-.-i_picture {
+.-i_microphone {
   width: 24px;
   height: 24px;
   background-position: -280px -520px;
 }
-.-i_slider {
+.-i_microphone_off {
   width: 24px;
   height: 24px;
   background-position: -320px -520px;
 }
-.-i_speaker {
+.-i_picture {
   width: 24px;
   height: 24px;
   background-position: -360px -520px;
 }
-.-i_speaker_off {
+.-i_slider {
   width: 24px;
   height: 24px;
   background-position: -400px -520px;
 }
-.-i_headphones {
+.-i_speaker {
   width: 24px;
   height: 24px;
   background-position: -440px -520px;
 }
-.-i_flag_finish {
+.-i_speaker_off {
   width: 24px;
   height: 24px;
   background-position: -480px -520px;
 }
-.-i_flag {
+.-i_headphones {
   width: 24px;
   height: 24px;
   background-position: -520px -520px;
 }
-.-i_box_paper {
+.-i_flag_finish {
   width: 24px;
   height: 24px;
   background-position: -560px -520px;
 }
-.-i_box_gift {
+.-i_flag {
   width: 24px;
   height: 24px;
   background-position: -600px -520px;
 }
-.-i_box_3d {
+.-i_box_paper {
   width: 24px;
   height: 24px;
   background-position: 0 -560px;
 }
-.-i_box_treasure {
+.-i_box_gift {
   width: 24px;
   height: 24px;
   background-position: -40px -560px;
 }
-.-i_star5 {
+.-i_box_3d {
   width: 24px;
   height: 24px;
   background-position: -80px -560px;
 }
-.-i_shopping_cart {
+.-i_box_treasure {
   width: 24px;
   height: 24px;
   background-position: -120px -560px;
 }
-.-i_tag {
+.-i_star5 {
   width: 24px;
   height: 24px;
   background-position: -160px -560px;
 }
-.-i_tag_price {
+.-i_shopping_cart {
   width: 24px;
   height: 24px;
   background-position: -200px -560px;
 }
-.-i_bag {
+.-i_tag {
   width: 24px;
   height: 24px;
   background-position: -240px -560px;
 }
-.-i_receipt {
+.-i_tag_price {
   width: 24px;
   height: 24px;
   background-position: -280px -560px;
 }
-.-i_barcode {
+.-i_bag {
   width: 24px;
   height: 24px;
   background-position: -320px -560px;
 }
-.-i_qr {
+.-i_receipt {
   width: 24px;
   height: 24px;
   background-position: -360px -560px;
 }
+.-i_barcode {
+  width: 24px;
+  height: 24px;
+  background-position: -400px -560px;
+}
+.-i_qr {
+  width: 24px;
+  height: 24px;
+  background-position: -440px -560px;
+}
 .-i_ifeed {
   width: 89px;
   height: 24px;
-  background-position: -400px -560px;
+  background-position: -480px -560px;
 }
 .-i_investira_h {
   width: 126px;
