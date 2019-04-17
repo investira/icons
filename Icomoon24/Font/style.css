@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Investira';
-  src:  url('fonts/Investira.eot?9krbqb');
-  src:  url('fonts/Investira.eot?9krbqb#iefix') format('embedded-opentype'),
-    url('fonts/Investira.ttf?9krbqb') format('truetype'),
-    url('fonts/Investira.woff?9krbqb') format('woff'),
-    url('fonts/Investira.svg?9krbqb#Investira') format('svg');
+  src:  url('fonts/Investira.eot?klc9sp');
+  src:  url('fonts/Investira.eot?klc9sp#iefix') format('embedded-opentype'),
+    url('fonts/Investira.ttf?klc9sp') format('truetype'),
+    url('fonts/Investira.woff?klc9sp') format('woff'),
+    url('fonts/Investira.svg?klc9sp#Investira') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -443,6 +443,12 @@
 }
 .-i_chip:before {
   content: "\e989";
+}
+.-i_keyboard:before {
+  content: "\e9f2";
+}
+.-i_mouse:before {
+  content: "\e9f3";
 }
 .-i_menu:before {
   content: "\e98a";

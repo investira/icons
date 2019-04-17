@@ -153,6 +153,8 @@
 		'-i_workstation': '&#xe987;',
 		'-i_multiplataform': '&#xe988;',
 		'-i_chip': '&#xe989;',
+		'-i_keyboard': '&#xe9f2;',
+		'-i_mouse': '&#xe9f3;',
 		'-i_menu': '&#xe98a;',
 		'-i_more': '&#xe98b;',
 		'-i_backup': '&#xe98c;',
