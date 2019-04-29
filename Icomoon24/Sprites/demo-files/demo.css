@@ -48,10 +48,10 @@ input:focus {
   font-size: 16px;
   margin-right: 1.5em;
   float: left;
-  width: 8em;
+  width: 9em;
 }
 svg {
-  color: #444;
+  color: #000;
 }
 .liga {
   width: 80%;
