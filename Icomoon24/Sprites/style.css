@@ -1,4 +1,4 @@
-.icon {
+.i_ {
   display: inline-block;
   width: 1em;
   height: 1em;
@@ -9,32 +9,32 @@
 
 /* ==========================================
 Single-colored icons can be modified like so:
-.icon-name {
+.-i_name {
   font-size: 32px;
   color: red;
 }
 ========================================== */
 
-.icon-ifeed {
+.-i_ifeed {
   width: 3.724609375em;
 }
 
-.icon-investira_h {
+.-i_investira_h {
   width: 5.236328125em;
 }
 
-.icon-investira_h_biz {
+.-i_investira_h_biz {
   width: 6.49609375em;
 }
 
-.icon-investira_h_pro {
+.-i_investira_h_pro {
   width: 6.4052734375em;
 }
 
-.icon-Investira_h_vc {
+.-i_Investira_h_vc {
   width: 6.3291015625em;
 }
 
-.icon-investira_v {
+.-i_investira_v {
   width: 1.556640625em;
 }
