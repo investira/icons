@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?21mq5g');
-  src:  url('fonts/icomoon.eot?21mq5g#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?21mq5g') format('truetype'),
-    url('fonts/icomoon.woff?21mq5g') format('woff'),
-    url('fonts/icomoon.svg?21mq5g#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?xg85l');
+  src:  url('fonts/icomoon.eot?xg85l#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xg85l') format('truetype'),
+    url('fonts/icomoon.woff?xg85l') format('woff'),
+    url('fonts/icomoon.svg?xg85l#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -197,6 +197,9 @@
 }
 .icon-arrow_negative:before {
   content: "\e939";
+}
+.icon-none:before {
+  content: "\e9f5";
 }
 .icon-media_play:before {
   content: "\e93a";
@@ -758,7 +761,4 @@
 }
 .icon-investira_v:before {
   content: "\e9f4";
-}
-.icon-investira_icon:before {
-  content: "\e9f5";
 }
