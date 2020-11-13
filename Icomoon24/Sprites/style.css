@@ -15,6 +15,30 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 
+.-i_foresight {
+  width: 1.3095703125em;
+}
+
+.-i_metal {
+  width: 0.60546875em;
+}
+
+.-i_precious_stone {
+  width: 1.1318359375em;
+}
+
+.-i_work_art {
+  width: 1.0537109375em;
+}
+
+.-i_lending {
+  width: 1.0546875em;
+}
+
+.-i_fidelity {
+  width: 1.3916015625em;
+}
+
 .-i_ifeed {
   width: 3.724609375em;
 }
