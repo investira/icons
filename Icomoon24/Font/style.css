@@ -1,18 +1,19 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?xg85l');
-  src:  url('fonts/icomoon.eot?xg85l#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?xg85l') format('truetype'),
-    url('fonts/icomoon.woff?xg85l') format('woff'),
-    url('fonts/icomoon.svg?xg85l#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?skabfg');
+  src:  url('fonts/icomoon.eot?skabfg#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?skabfg') format('truetype'),
+    url('fonts/icomoon.woff?skabfg') format('woff'),
+    url('fonts/icomoon.svg?skabfg#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -29,6 +30,12 @@
 }
 .icon-cancel:before {
   content: "\e901";
+}
+.icon-check:before {
+  content: "\e9f5";
+}
+.icon-double_check:before {
+  content: "\e9f6";
 }
 .icon-insert:before {
   content: "\e902";
@@ -83,6 +90,9 @@
 }
 .icon-question:before {
   content: "\e913";
+}
+.icon-add:before {
+  content: "\e9f7";
 }
 .icon-checkbox:before {
   content: "\e914";
@@ -199,7 +209,7 @@
   content: "\e939";
 }
 .icon-none:before {
-  content: "\e9f5";
+  content: "\e9f8";
 }
 .icon-media_play:before {
   content: "\e93a";
@@ -282,6 +292,15 @@
 .icon-todo:before {
   content: "\e954";
 }
+.icon-list:before {
+  content: "\e9f9";
+}
+.icon-grid_list:before {
+  content: "\e9fa";
+}
+.icon-compact_list:before {
+  content: "\e9fb";
+}
 .icon-paper:before {
   content: "\e955";
 }
@@ -314,6 +333,9 @@
 }
 .icon-scissors:before {
   content: "\e95f";
+}
+.icon-dice:before {
+  content: "\e9fc";
 }
 .icon-book:before {
   content: "\e960";
@@ -390,6 +412,9 @@
 .icon-coins:before {
   content: "\e978";
 }
+.icon-currency_bitcoin:before {
+  content: "\e9fd";
+}
 .icon-bill:before {
   content: "\e979";
 }
@@ -399,11 +424,20 @@
 .icon-percent:before {
   content: "\e97b";
 }
+.icon-compare:before {
+  content: "\e9fe";
+}
 .icon-safe:before {
   content: "\e97c";
 }
 .icon-money_saving:before {
   content: "\e97d";
+}
+.icon-bank_account:before {
+  content: "\e9ff";
+}
+.icon-shield:before {
+  content: "\ea00";
 }
 .icon-wallet:before {
   content: "\e97e";
@@ -416,6 +450,21 @@
 }
 .icon-investiment:before {
   content: "\e981";
+}
+.icon-fund:before {
+  content: "\ea01";
+}
+.icon-stock:before {
+  content: "\ea02";
+}
+.icon-pri_bond:before {
+  content: "\ea03";
+}
+.icon-bank_bond:before {
+  content: "\ea04";
+}
+.icon-pub_bond:before {
+  content: "\ea05";
 }
 .icon-printer:before {
   content: "\e982";
@@ -461,6 +510,9 @@
 }
 .icon-more:before {
   content: "\e990";
+}
+.icon-menu_dots:before {
+  content: "\ea06";
 }
 .icon-backup:before {
   content: "\e991";
@@ -525,6 +577,36 @@
 .icon-truck:before {
   content: "\e9a5";
 }
+.icon-agro:before {
+  content: "\ea07";
+}
+.icon-mining:before {
+  content: "\ea08";
+}
+.icon-water:before {
+  content: "\ea09";
+}
+.icon-construction:before {
+  content: "\ea0a";
+}
+.icon-hotel_gastro:before {
+  content: "\ea0b";
+}
+.icon-sport:before {
+  content: "\ea0c";
+}
+.icon-public_service:before {
+  content: "\ea0d";
+}
+.icon-others_activities:before {
+  content: "\ea0e";
+}
+.icon-derivatives:before {
+  content: "\ea0f";
+}
+.icon-domestic_service1:before {
+  content: "\ea10";
+}
 .icon-traffic_light:before {
   content: "\e9a6";
 }
@@ -542,6 +624,9 @@
 }
 .icon-control_panel:before {
   content: "\e9ab";
+}
+.icon-sign_prohibid_inverted:before {
+  content: "\ea1a";
 }
 .icon-sign_prohibid:before {
   content: "\e9ac";
@@ -605,6 +690,9 @@
 }
 .icon-umbrella:before {
   content: "\e9c0";
+}
+.icon-foresight:before {
+  content: "\ea11";
 }
 .icon-paper_plane:before {
   content: "\e9c1";
@@ -672,6 +760,12 @@
 .icon-lion:before {
   content: "\e9d6";
 }
+.icon-bull:before {
+  content: "\ea12";
+}
+.icon-bear:before {
+  content: "\ea13";
+}
 .icon-music_note:before {
   content: "\e9d7";
 }
@@ -702,6 +796,21 @@
 .icon-headphones:before {
   content: "\e9e0";
 }
+.icon-metal:before {
+  content: "\ea14";
+}
+.icon-precious_stone:before {
+  content: "\ea15";
+}
+.icon-work_art:before {
+  content: "\ea16";
+}
+.icon-lending:before {
+  content: "\ea17";
+}
+.icon-fidelity:before {
+  content: "\ea18";
+}
 .icon-flag_finish:before {
   content: "\e9e1";
 }
@@ -722,6 +831,9 @@
 }
 .icon-star5:before {
   content: "\e9e7";
+}
+.icon-star5_filled:before {
+  content: "\ea19";
 }
 .icon-shopping_cart:before {
   content: "\e9e8";
