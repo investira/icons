@@ -1,25 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
-   id="Layer"
-   x="0px"
-   y="0px"
-   width="24px"
-   height="24px"
-   viewBox="0 0 24 24"
-   style="enable-background:new 0 0 24 24;"
-   xml:space="preserve"><metadata
-   id="metadata17"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs15" />
-<path
-   style="fill:#231f20;stroke-width:1"
-   d="M 19.81,19.74 C 21.783,17.756001 23,15.022 23,12.000001 23,5.9239999 18.077,1 12,1 8.9799999,1 6.244,2.2209999 4.257,4.1869999 L 3.346,5.2259998 c -1.465,1.869 -2.3459999,4.2150003 -2.3459999,6.7740012 0,6.076 4.923,11 10.9999999,11 2.558999,0 4.908,-0.881 6.777,-2.346001 z M 12,2.3749999 c 5.307,0 9.625,4.3179999 9.625,9.6250011 0,2.638 -1.066,5.027 -2.791,6.768 L 5.233,5.1659999 c 1.74,-1.7220001 4.1320004,-2.791 6.767,-2.791 z m 0,19.2500011 c -5.307,0 -9.6249999,-4.318 -9.6249999,-9.625 0,-2.1740009 0.733,-4.1760012 1.956,-5.7950012 L 17.791,19.669001 c -1.613,1.223 -3.614,1.956 -5.791,1.956 z"
-   id="path10" />
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="24px" height="24px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<path style="fill:#231F20;" d="M19.81,19.74C21.783,17.756,23,15.022,23,12c0-6.076-4.923-11-11-11C8.98,1,6.244,2.221,4.257,4.187
+	L3.346,5.226C1.881,7.095,1,9.441,1,12c0,6.076,4.923,11,11,11c2.559,0,4.908-0.881,6.777-2.346L19.81,19.74z M12,2.375
+	c5.307,0,9.625,4.318,9.625,9.625c0,2.638-1.066,5.027-2.791,6.768L5.233,5.166C6.973,3.444,9.365,2.375,12,2.375z M12,21.625
+	c-5.307,0-9.625-4.318-9.625-9.625c0-2.174,0.733-4.176,1.956-5.795l13.46,13.464C16.178,20.892,14.177,21.625,12,21.625z"/>
 </svg>
