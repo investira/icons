@@ -4548,7 +4548,7 @@
         {}
       ],
       "properties": {
-        "order": 1140,
+        "order": 1142,
         "id": 325,
         "name": "money_left",
         "prevSize": 32
@@ -4582,7 +4582,7 @@
         {}
       ],
       "properties": {
-        "order": 1141,
+        "order": 1143,
         "id": 324,
         "name": "money_missing",
         "prevSize": 32
