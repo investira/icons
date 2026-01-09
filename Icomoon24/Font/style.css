@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?5lcl7g');
-  src:  url('fonts/icomoon.eot?5lcl7g#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?5lcl7g') format('truetype'),
-    url('fonts/icomoon.woff?5lcl7g') format('woff'),
-    url('fonts/icomoon.svg?5lcl7g#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?b0ju3t');
+  src:  url('fonts/icomoon.eot?b0ju3t#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?b0ju3t') format('truetype'),
+    url('fonts/icomoon.woff?b0ju3t') format('woff'),
+    url('fonts/icomoon.svg?b0ju3t#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -57,6 +57,9 @@
 }
 .icon-synchronize:before {
   content: "\e90a";
+}
+.icon-execute:before {
+  content: "\ea08";
 }
 .icon-filter:before {
   content: "\e90b";
@@ -148,6 +151,9 @@
 .icon-user_id:before {
   content: "\e928";
 }
+.icon-family:before {
+  content: "\ea1f";
+}
 .icon-arrow-first-circle:before {
   content: "\e929";
 }
@@ -217,6 +223,12 @@
 .icon-none:before {
   content: "\e93f";
 }
+.icon-arrow_right:before {
+  content: "\ea47";
+}
+.icon-arrow_left:before {
+  content: "\ea48";
+}
 .icon-media_play:before {
   content: "\e940";
 }
@@ -280,8 +292,35 @@
 .icon-store:before {
   content: "\e954";
 }
+.icon-show:before {
+  content: "\ea20";
+}
+.icon-lodge:before {
+  content: "\ea21";
+}
+.icon-exchange:before {
+  content: "\ea22";
+}
+.icon-clothing:before {
+  content: "\ea23";
+}
+.icon-restaurant:before {
+  content: "\ea24";
+}
+.icon-fitness:before {
+  content: "\ea25";
+}
+.icon-drug:before {
+  content: "\ea26";
+}
 .icon-hospital:before {
   content: "\e955";
+}
+.icon-townhouse:before {
+  content: "\ea27";
+}
+.icon-lab:before {
+  content: "\ea49";
 }
 .icon-newspaper:before {
   content: "\e956";
@@ -319,6 +358,9 @@
 .icon-paper_printer:before {
   content: "\e961";
 }
+.icon-report:before {
+  content: "\ea4a";
+}
 .icon-paper_ribbon:before {
   content: "\e962";
 }
@@ -352,6 +394,9 @@
 .icon-graduation_cap:before {
   content: "\e96c";
 }
+.icon-class:before {
+  content: "\ea28";
+}
 .icon-message:before {
   content: "\e96d";
 }
@@ -378,6 +423,12 @@
 }
 .icon-hand:before {
   content: "\e975";
+}
+.icon-like:before {
+  content: "\ea29";
+}
+.icon-dislike:before {
+  content: "\ea2a";
 }
 .icon-delta:before {
   content: "\e976";
@@ -421,14 +472,44 @@
 .icon-coins:before {
   content: "\e983";
 }
+.icon-coin_plus:before {
+  content: "\ea2b";
+}
+.icon-coins_plus:before {
+  content: "\ea2c";
+}
 .icon-bill:before {
   content: "\e984";
 }
 .icon-bills:before {
   content: "\e985";
 }
+.icon-money_left:before {
+  content: "\ea2d";
+}
+.icon-money_missing:before {
+  content: "\ea2e";
+}
+.icon-bill_out:before {
+  content: "\ea2f";
+}
+.icon-bill_in:before {
+  content: "\ea30";
+}
+.icon-bonus:before {
+  content: "\ea31";
+}
+.icon-loan:before {
+  content: "\ea32";
+}
 .icon-percent:before {
   content: "\e986";
+}
+.icon-tax:before {
+  content: "\ea33";
+}
+.icon-fine:before {
+  content: "\ea34";
 }
 .icon-compare:before {
   content: "\e987";
@@ -466,11 +547,35 @@
 .icon-pub_bond:before {
   content: "\e992";
 }
+.icon-open_wallet:before {
+  content: "\ea4b";
+}
 .icon-bank_account:before {
   content: "\e993";
 }
 .icon-shield:before {
   content: "\e994";
+}
+.icon-donation:before {
+  content: "\ea35";
+}
+.icon-philanthropy:before {
+  content: "\ea36";
+}
+.icon-rent:before {
+  content: "\ea37";
+}
+.icon-toll:before {
+  content: "\ea38";
+}
+.icon-insurance:before {
+  content: "\ea39";
+}
+.icon-laundry:before {
+  content: "\ea3a";
+}
+.icon-beauty:before {
+  content: "\ea3b";
 }
 .icon-printer:before {
   content: "\e995";
@@ -511,6 +616,9 @@
 .icon-mouse:before {
   content: "\e9a1";
 }
+.icon-drag:before {
+  content: "\ea3c";
+}
 .icon-menu:before {
   content: "\e9a2";
 }
@@ -519,6 +627,9 @@
 }
 .icon-menu_dots:before {
   content: "\e9a4";
+}
+.icon-others:before {
+  content: "\ea3d";
 }
 .icon-backup:before {
   content: "\e9a5";
@@ -540,6 +651,15 @@
 }
 .icon-linkedin:before {
   content: "\e9ab";
+}
+.icon-openbanking:before {
+  content: "\ea3e";
+}
+.icon-zap:before {
+  content: "\ea3f";
+}
+.icon-brdados_icon:before {
+  content: "\ea4c";
 }
 .icon-clock:before {
   content: "\e9ac";
@@ -616,6 +736,9 @@
 .icon-domestic_service1:before {
   content: "\e9c4";
 }
+.icon-flame:before {
+  content: "\ea40";
+}
 .icon-traffic_light:before {
   content: "\e9c5";
 }
@@ -648,6 +771,9 @@
 }
 .icon-sign_accessibility:before {
   content: "\e9cf";
+}
+.icon-sign_park:before {
+  content: "\ea41";
 }
 .icon-policeman:before {
   content: "\e9d0";
@@ -775,6 +901,9 @@
 .icon-bear:before {
   content: "\e9f9";
 }
+.icon-pet:before {
+  content: "\ea42";
+}
 .icon-music_note:before {
   content: "\e9fa";
 }
@@ -818,7 +947,10 @@
   content: "\ea07";
 }
 .icon-fidelity:before {
-  content: "\ea08";
+  content: "\ea43";
+}
+.icon-health_plan:before {
+  content: "\ea44";
 }
 .icon-flag_finish:before {
   content: "\ea09";
@@ -837,6 +969,9 @@
 }
 .icon-box_treasure:before {
   content: "\ea0e";
+}
+.icon-box_3d_open:before {
+  content: "\ea4d";
 }
 .icon-star5:before {
   content: "\ea0f";
@@ -864,6 +999,12 @@
 }
 .icon-qr:before {
   content: "\ea17";
+}
+.icon-fingerprint:before {
+  content: "\ea45";
+}
+.icon-smile:before {
+  content: "\ea46";
 }
 .icon-ifeed:before {
   content: "\ea18";
