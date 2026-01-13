@@ -1,0 +1,64 @@
+.i_ {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.-i_name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.-i_dice {
+  width: 0.830078125em;
+}
+
+.-i_foresight {
+  width: 1.3095703125em;
+}
+
+.-i_metal {
+  width: 0.60546875em;
+}
+
+.-i_precious_stone {
+  width: 1.1318359375em;
+}
+
+.-i_work_art {
+  width: 1.0537109375em;
+}
+
+.-i_lending {
+  width: 1.0546875em;
+}
+
+.-i_ifeed {
+  width: 3.724609375em;
+}
+
+.-i_investira_h {
+  width: 5.236328125em;
+}
+
+.-i_investira_h_biz {
+  width: 6.49609375em;
+}
+
+.-i_investira_h_pro {
+  width: 6.4052734375em;
+}
+
+.-i_Investira_h_vc {
+  width: 6.3291015625em;
+}
+
+.-i_investira_v {
+  width: 1.556640625em;
+}
